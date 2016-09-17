@@ -3,4 +3,6 @@ bridge-utils
 dnsmasq
 zip
 bc
-
+nano
+gettext
+iptables
