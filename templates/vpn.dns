@@ -1,0 +1,2 @@
+
+alias=${LAN_NET},${VPN_FULL_NET},${LAN_NETMASK}
